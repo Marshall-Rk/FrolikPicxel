@@ -15,7 +15,7 @@ body {
   font-weight: 300;
   font-size: 18px;
   line-height: 1.5;
-  color: blue;
+  color: rgb(45, 178, 240);
   background: whitesmoke; }
 
 #page {
@@ -332,15 +332,16 @@ h1, h2, h3, h4, h5, h6, figure {
             .video-hero .display-tc .holder span:after {
               right: -60px; } }
     .video-hero .display-tc h2 {
-      color: #fff;
-      font-size: 80px;
+      font-family: 'Times New Roman', Times, serif;
+      color: rgba(223, 219, 219, 0.801);
+      font-size: 30px;
       margin-bottom: 20px;
       text-transform: uppercase; }
       .video-hero .display-tc h2 strong {
         font-weight: 700; }
       @media screen and (max-width: 768px) {
         .video-hero .display-tc h2 {
-          font-size: 60px; } }
+          font-size: 20px; } }
     .video-hero .display-tc p {
       color: #fff;
       font-weight: 400;
@@ -1167,3 +1168,4 @@ input[type="text"] {
 
 .js .animate-box {
   opacity: 0; }
+

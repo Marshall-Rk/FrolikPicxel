@@ -301,7 +301,7 @@ h1, h2, h3, h4, h5, h6, figure {
     display: table-cell;
     vertical-align: middle; }
     .video-hero .display-tc .holder {
-      color: #fff;
+      color: rgb(18, 207, 240);
       font-family: "Josefin Sans", Arial, sans-serif;
       font-size: 18px;
       text-transform: uppercase;
@@ -333,7 +333,7 @@ h1, h2, h3, h4, h5, h6, figure {
               right: -60px; } }
     .video-hero .display-tc h2 {
       font-family: 'Times New Roman', Times, serif;
-      color: rgba(223, 219, 219, 0.801);
+      color: rgba(246, 247, 242, 0.801);
       font-size: 30px;
       margin-bottom: 20px;
       text-transform: uppercase; }
@@ -343,7 +343,7 @@ h1, h2, h3, h4, h5, h6, figure {
         .video-hero .display-tc h2 {
           font-size: 20px; } }
     .video-hero .display-tc p {
-      color: #fff;
+      color: rgb(235, 235, 13);
       font-weight: 400;
       font-size: 20px;
       letter-spacing: 10px; }
@@ -381,7 +381,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .services {
   margin-bottom: 30px;
   position: relative;
-  background: #fff;
+  background: rgb(255, 255, 255);
   padding: 20px;
   z-index: 0; }
   .services .icon {

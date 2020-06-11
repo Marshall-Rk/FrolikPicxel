@@ -1169,3 +1169,11 @@ input[type="text"] {
 .js .animate-box {
   opacity: 0; }
 
+  .d-flex
+  {
+    position: relative;
+    padding-bottom: 5%;
+    padding-top: 3%;
+    height: 100%;
+    overflow: hidden;
+  }
